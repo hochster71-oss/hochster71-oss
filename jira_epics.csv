@@ -1,0 +1,3421 @@
+Issue Type,Summary,Description,Priority,Epic Name,Labels,Component/s
+Epic,[AC-1] Access Control,"# NIST 800-53 Rev 4 Control: AC-1
+
+**Control Family:** Access Control
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Access Control - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control AC-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AC-1,"RMF,NIST-800-53,AC,AC_1",Access Control
+Epic,[AC-10] Access Control,"# NIST 800-53 Rev 4 Control: AC-10
+
+**Control Family:** Access Control
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Access Control - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control AC-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AC-10,"RMF,NIST-800-53,AC,AC_10",Access Control
+Epic,[AC-2] Access Control,"# NIST 800-53 Rev 4 Control: AC-2
+
+**Control Family:** Access Control
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Access Control - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control AC-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AC-2,"RMF,NIST-800-53,AC,AC_2",Access Control
+Epic,[AC-3] Access Control,"# NIST 800-53 Rev 4 Control: AC-3
+
+**Control Family:** Access Control
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Access Control - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control AC-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AC-3,"RMF,NIST-800-53,AC,AC_3",Access Control
+Epic,[AC-4] Access Control,"# NIST 800-53 Rev 4 Control: AC-4
+
+**Control Family:** Access Control
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Access Control - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control AC-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AC-4,"RMF,NIST-800-53,AC,AC_4",Access Control
+Epic,[AC-5] Access Control,"# NIST 800-53 Rev 4 Control: AC-5
+
+**Control Family:** Access Control
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Access Control - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control AC-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AC-5,"RMF,NIST-800-53,AC,AC_5",Access Control
+Epic,[AC-6] Access Control,"# NIST 800-53 Rev 4 Control: AC-6
+
+**Control Family:** Access Control
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Access Control - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control AC-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AC-6,"RMF,NIST-800-53,AC,AC_6",Access Control
+Epic,[AC-7] Access Control,"# NIST 800-53 Rev 4 Control: AC-7
+
+**Control Family:** Access Control
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Access Control - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control AC-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AC-7,"RMF,NIST-800-53,AC,AC_7",Access Control
+Epic,[AC-8] Access Control,"# NIST 800-53 Rev 4 Control: AC-8
+
+**Control Family:** Access Control
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Access Control - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control AC-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AC-8,"RMF,NIST-800-53,AC,AC_8",Access Control
+Epic,[AC-9] Access Control,"# NIST 800-53 Rev 4 Control: AC-9
+
+**Control Family:** Access Control
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Access Control - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control AC-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AC-9,"RMF,NIST-800-53,AC,AC_9",Access Control
+Epic,[AT-1] Awareness and Training,"# NIST 800-53 Rev 4 Control: AT-1
+
+**Control Family:** Awareness and Training
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Awareness and Training - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control AT-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,AT-1,"RMF,NIST-800-53,AT,AT_1",Awareness and Training
+Epic,[AT-10] Awareness and Training,"# NIST 800-53 Rev 4 Control: AT-10
+
+**Control Family:** Awareness and Training
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Awareness and Training - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control AT-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,AT-10,"RMF,NIST-800-53,AT,AT_10",Awareness and Training
+Epic,[AT-2] Awareness and Training,"# NIST 800-53 Rev 4 Control: AT-2
+
+**Control Family:** Awareness and Training
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Awareness and Training - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control AT-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,AT-2,"RMF,NIST-800-53,AT,AT_2",Awareness and Training
+Epic,[AT-3] Awareness and Training,"# NIST 800-53 Rev 4 Control: AT-3
+
+**Control Family:** Awareness and Training
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Awareness and Training - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control AT-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,AT-3,"RMF,NIST-800-53,AT,AT_3",Awareness and Training
+Epic,[AT-4] Awareness and Training,"# NIST 800-53 Rev 4 Control: AT-4
+
+**Control Family:** Awareness and Training
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Awareness and Training - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control AT-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,AT-4,"RMF,NIST-800-53,AT,AT_4",Awareness and Training
+Epic,[AT-5] Awareness and Training,"# NIST 800-53 Rev 4 Control: AT-5
+
+**Control Family:** Awareness and Training
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Awareness and Training - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control AT-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,AT-5,"RMF,NIST-800-53,AT,AT_5",Awareness and Training
+Epic,[AT-6] Awareness and Training,"# NIST 800-53 Rev 4 Control: AT-6
+
+**Control Family:** Awareness and Training
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Awareness and Training - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control AT-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,AT-6,"RMF,NIST-800-53,AT,AT_6",Awareness and Training
+Epic,[AT-7] Awareness and Training,"# NIST 800-53 Rev 4 Control: AT-7
+
+**Control Family:** Awareness and Training
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Awareness and Training - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control AT-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,AT-7,"RMF,NIST-800-53,AT,AT_7",Awareness and Training
+Epic,[AT-8] Awareness and Training,"# NIST 800-53 Rev 4 Control: AT-8
+
+**Control Family:** Awareness and Training
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Awareness and Training - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control AT-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,AT-8,"RMF,NIST-800-53,AT,AT_8",Awareness and Training
+Epic,[AT-9] Awareness and Training,"# NIST 800-53 Rev 4 Control: AT-9
+
+**Control Family:** Awareness and Training
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Awareness and Training - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control AT-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,AT-9,"RMF,NIST-800-53,AT,AT_9",Awareness and Training
+Epic,[AU-1] Audit and Accountability,"# NIST 800-53 Rev 4 Control: AU-1
+
+**Control Family:** Audit and Accountability
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Audit and Accountability - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control AU-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AU-1,"RMF,NIST-800-53,AU,AU_1",Audit and Accountability
+Epic,[AU-10] Audit and Accountability,"# NIST 800-53 Rev 4 Control: AU-10
+
+**Control Family:** Audit and Accountability
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Audit and Accountability - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control AU-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AU-10,"RMF,NIST-800-53,AU,AU_10",Audit and Accountability
+Epic,[AU-2] Audit and Accountability,"# NIST 800-53 Rev 4 Control: AU-2
+
+**Control Family:** Audit and Accountability
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Audit and Accountability - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control AU-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AU-2,"RMF,NIST-800-53,AU,AU_2",Audit and Accountability
+Epic,[AU-3] Audit and Accountability,"# NIST 800-53 Rev 4 Control: AU-3
+
+**Control Family:** Audit and Accountability
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Audit and Accountability - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control AU-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AU-3,"RMF,NIST-800-53,AU,AU_3",Audit and Accountability
+Epic,[AU-4] Audit and Accountability,"# NIST 800-53 Rev 4 Control: AU-4
+
+**Control Family:** Audit and Accountability
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Audit and Accountability - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control AU-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AU-4,"RMF,NIST-800-53,AU,AU_4",Audit and Accountability
+Epic,[AU-5] Audit and Accountability,"# NIST 800-53 Rev 4 Control: AU-5
+
+**Control Family:** Audit and Accountability
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Audit and Accountability - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control AU-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AU-5,"RMF,NIST-800-53,AU,AU_5",Audit and Accountability
+Epic,[AU-6] Audit and Accountability,"# NIST 800-53 Rev 4 Control: AU-6
+
+**Control Family:** Audit and Accountability
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Audit and Accountability - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control AU-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AU-6,"RMF,NIST-800-53,AU,AU_6",Audit and Accountability
+Epic,[AU-7] Audit and Accountability,"# NIST 800-53 Rev 4 Control: AU-7
+
+**Control Family:** Audit and Accountability
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Audit and Accountability - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control AU-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AU-7,"RMF,NIST-800-53,AU,AU_7",Audit and Accountability
+Epic,[AU-8] Audit and Accountability,"# NIST 800-53 Rev 4 Control: AU-8
+
+**Control Family:** Audit and Accountability
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Audit and Accountability - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control AU-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AU-8,"RMF,NIST-800-53,AU,AU_8",Audit and Accountability
+Epic,[AU-9] Audit and Accountability,"# NIST 800-53 Rev 4 Control: AU-9
+
+**Control Family:** Audit and Accountability
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Audit and Accountability - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control AU-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,AU-9,"RMF,NIST-800-53,AU,AU_9",Audit and Accountability
+Epic,[CA-1] Security Assessment and Authorization,"# NIST 800-53 Rev 4 Control: CA-1
+
+**Control Family:** Security Assessment and Authorization
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Security Assessment and Authorization - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control CA-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CA-1,"RMF,NIST-800-53,CA,CA_1",Security Assessment and Authorization
+Epic,[CA-10] Security Assessment and Authorization,"# NIST 800-53 Rev 4 Control: CA-10
+
+**Control Family:** Security Assessment and Authorization
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Security Assessment and Authorization - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control CA-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CA-10,"RMF,NIST-800-53,CA,CA_10",Security Assessment and Authorization
+Epic,[CA-2] Security Assessment and Authorization,"# NIST 800-53 Rev 4 Control: CA-2
+
+**Control Family:** Security Assessment and Authorization
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Security Assessment and Authorization - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control CA-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CA-2,"RMF,NIST-800-53,CA,CA_2",Security Assessment and Authorization
+Epic,[CA-3] Security Assessment and Authorization,"# NIST 800-53 Rev 4 Control: CA-3
+
+**Control Family:** Security Assessment and Authorization
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Security Assessment and Authorization - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control CA-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CA-3,"RMF,NIST-800-53,CA,CA_3",Security Assessment and Authorization
+Epic,[CA-4] Security Assessment and Authorization,"# NIST 800-53 Rev 4 Control: CA-4
+
+**Control Family:** Security Assessment and Authorization
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Security Assessment and Authorization - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control CA-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CA-4,"RMF,NIST-800-53,CA,CA_4",Security Assessment and Authorization
+Epic,[CA-5] Security Assessment and Authorization,"# NIST 800-53 Rev 4 Control: CA-5
+
+**Control Family:** Security Assessment and Authorization
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Security Assessment and Authorization - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control CA-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CA-5,"RMF,NIST-800-53,CA,CA_5",Security Assessment and Authorization
+Epic,[CA-6] Security Assessment and Authorization,"# NIST 800-53 Rev 4 Control: CA-6
+
+**Control Family:** Security Assessment and Authorization
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Security Assessment and Authorization - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control CA-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CA-6,"RMF,NIST-800-53,CA,CA_6",Security Assessment and Authorization
+Epic,[CA-7] Security Assessment and Authorization,"# NIST 800-53 Rev 4 Control: CA-7
+
+**Control Family:** Security Assessment and Authorization
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Security Assessment and Authorization - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control CA-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CA-7,"RMF,NIST-800-53,CA,CA_7",Security Assessment and Authorization
+Epic,[CA-8] Security Assessment and Authorization,"# NIST 800-53 Rev 4 Control: CA-8
+
+**Control Family:** Security Assessment and Authorization
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Security Assessment and Authorization - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control CA-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CA-8,"RMF,NIST-800-53,CA,CA_8",Security Assessment and Authorization
+Epic,[CA-9] Security Assessment and Authorization,"# NIST 800-53 Rev 4 Control: CA-9
+
+**Control Family:** Security Assessment and Authorization
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Security Assessment and Authorization - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control CA-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CA-9,"RMF,NIST-800-53,CA,CA_9",Security Assessment and Authorization
+Epic,[CM-1] Configuration Management,"# NIST 800-53 Rev 4 Control: CM-1
+
+**Control Family:** Configuration Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Configuration Management - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control CM-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CM-1,"RMF,NIST-800-53,CM,CM_1",Configuration Management
+Epic,[CM-10] Configuration Management,"# NIST 800-53 Rev 4 Control: CM-10
+
+**Control Family:** Configuration Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Configuration Management - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control CM-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CM-10,"RMF,NIST-800-53,CM,CM_10",Configuration Management
+Epic,[CM-2] Configuration Management,"# NIST 800-53 Rev 4 Control: CM-2
+
+**Control Family:** Configuration Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Configuration Management - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control CM-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CM-2,"RMF,NIST-800-53,CM,CM_2",Configuration Management
+Epic,[CM-3] Configuration Management,"# NIST 800-53 Rev 4 Control: CM-3
+
+**Control Family:** Configuration Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Configuration Management - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control CM-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CM-3,"RMF,NIST-800-53,CM,CM_3",Configuration Management
+Epic,[CM-4] Configuration Management,"# NIST 800-53 Rev 4 Control: CM-4
+
+**Control Family:** Configuration Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Configuration Management - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control CM-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CM-4,"RMF,NIST-800-53,CM,CM_4",Configuration Management
+Epic,[CM-5] Configuration Management,"# NIST 800-53 Rev 4 Control: CM-5
+
+**Control Family:** Configuration Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Configuration Management - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control CM-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CM-5,"RMF,NIST-800-53,CM,CM_5",Configuration Management
+Epic,[CM-6] Configuration Management,"# NIST 800-53 Rev 4 Control: CM-6
+
+**Control Family:** Configuration Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Configuration Management - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control CM-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CM-6,"RMF,NIST-800-53,CM,CM_6",Configuration Management
+Epic,[CM-7] Configuration Management,"# NIST 800-53 Rev 4 Control: CM-7
+
+**Control Family:** Configuration Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Configuration Management - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control CM-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CM-7,"RMF,NIST-800-53,CM,CM_7",Configuration Management
+Epic,[CM-8] Configuration Management,"# NIST 800-53 Rev 4 Control: CM-8
+
+**Control Family:** Configuration Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Configuration Management - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control CM-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CM-8,"RMF,NIST-800-53,CM,CM_8",Configuration Management
+Epic,[CM-9] Configuration Management,"# NIST 800-53 Rev 4 Control: CM-9
+
+**Control Family:** Configuration Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Configuration Management - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control CM-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CM-9,"RMF,NIST-800-53,CM,CM_9",Configuration Management
+Epic,[CP-1] Contingency Planning,"# NIST 800-53 Rev 4 Control: CP-1
+
+**Control Family:** Contingency Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Contingency Planning - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control CP-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CP-1,"RMF,NIST-800-53,CP,CP_1",Contingency Planning
+Epic,[CP-10] Contingency Planning,"# NIST 800-53 Rev 4 Control: CP-10
+
+**Control Family:** Contingency Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Contingency Planning - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control CP-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CP-10,"RMF,NIST-800-53,CP,CP_10",Contingency Planning
+Epic,[CP-2] Contingency Planning,"# NIST 800-53 Rev 4 Control: CP-2
+
+**Control Family:** Contingency Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Contingency Planning - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control CP-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CP-2,"RMF,NIST-800-53,CP,CP_2",Contingency Planning
+Epic,[CP-3] Contingency Planning,"# NIST 800-53 Rev 4 Control: CP-3
+
+**Control Family:** Contingency Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Contingency Planning - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control CP-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CP-3,"RMF,NIST-800-53,CP,CP_3",Contingency Planning
+Epic,[CP-4] Contingency Planning,"# NIST 800-53 Rev 4 Control: CP-4
+
+**Control Family:** Contingency Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Contingency Planning - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control CP-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CP-4,"RMF,NIST-800-53,CP,CP_4",Contingency Planning
+Epic,[CP-5] Contingency Planning,"# NIST 800-53 Rev 4 Control: CP-5
+
+**Control Family:** Contingency Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Contingency Planning - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control CP-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CP-5,"RMF,NIST-800-53,CP,CP_5",Contingency Planning
+Epic,[CP-6] Contingency Planning,"# NIST 800-53 Rev 4 Control: CP-6
+
+**Control Family:** Contingency Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Contingency Planning - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control CP-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CP-6,"RMF,NIST-800-53,CP,CP_6",Contingency Planning
+Epic,[CP-7] Contingency Planning,"# NIST 800-53 Rev 4 Control: CP-7
+
+**Control Family:** Contingency Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Contingency Planning - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control CP-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CP-7,"RMF,NIST-800-53,CP,CP_7",Contingency Planning
+Epic,[CP-8] Contingency Planning,"# NIST 800-53 Rev 4 Control: CP-8
+
+**Control Family:** Contingency Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Contingency Planning - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control CP-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CP-8,"RMF,NIST-800-53,CP,CP_8",Contingency Planning
+Epic,[CP-9] Contingency Planning,"# NIST 800-53 Rev 4 Control: CP-9
+
+**Control Family:** Contingency Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Contingency Planning - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control CP-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,CP-9,"RMF,NIST-800-53,CP,CP_9",Contingency Planning
+Epic,[IA-1] Identification and Authentication,"# NIST 800-53 Rev 4 Control: IA-1
+
+**Control Family:** Identification and Authentication
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Identification and Authentication - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control IA-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,IA-1,"RMF,NIST-800-53,IA,IA_1",Identification and Authentication
+Epic,[IA-10] Identification and Authentication,"# NIST 800-53 Rev 4 Control: IA-10
+
+**Control Family:** Identification and Authentication
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Identification and Authentication - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control IA-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,IA-10,"RMF,NIST-800-53,IA,IA_10",Identification and Authentication
+Epic,[IA-2] Identification and Authentication,"# NIST 800-53 Rev 4 Control: IA-2
+
+**Control Family:** Identification and Authentication
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Identification and Authentication - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control IA-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,IA-2,"RMF,NIST-800-53,IA,IA_2",Identification and Authentication
+Epic,[IA-3] Identification and Authentication,"# NIST 800-53 Rev 4 Control: IA-3
+
+**Control Family:** Identification and Authentication
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Identification and Authentication - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control IA-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,IA-3,"RMF,NIST-800-53,IA,IA_3",Identification and Authentication
+Epic,[IA-4] Identification and Authentication,"# NIST 800-53 Rev 4 Control: IA-4
+
+**Control Family:** Identification and Authentication
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Identification and Authentication - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control IA-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,IA-4,"RMF,NIST-800-53,IA,IA_4",Identification and Authentication
+Epic,[IA-5] Identification and Authentication,"# NIST 800-53 Rev 4 Control: IA-5
+
+**Control Family:** Identification and Authentication
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Identification and Authentication - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control IA-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,IA-5,"RMF,NIST-800-53,IA,IA_5",Identification and Authentication
+Epic,[IA-6] Identification and Authentication,"# NIST 800-53 Rev 4 Control: IA-6
+
+**Control Family:** Identification and Authentication
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Identification and Authentication - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control IA-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,IA-6,"RMF,NIST-800-53,IA,IA_6",Identification and Authentication
+Epic,[IA-7] Identification and Authentication,"# NIST 800-53 Rev 4 Control: IA-7
+
+**Control Family:** Identification and Authentication
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Identification and Authentication - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control IA-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,IA-7,"RMF,NIST-800-53,IA,IA_7",Identification and Authentication
+Epic,[IA-8] Identification and Authentication,"# NIST 800-53 Rev 4 Control: IA-8
+
+**Control Family:** Identification and Authentication
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Identification and Authentication - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control IA-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,IA-8,"RMF,NIST-800-53,IA,IA_8",Identification and Authentication
+Epic,[IA-9] Identification and Authentication,"# NIST 800-53 Rev 4 Control: IA-9
+
+**Control Family:** Identification and Authentication
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Identification and Authentication - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control IA-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,IA-9,"RMF,NIST-800-53,IA,IA_9",Identification and Authentication
+Epic,[IR-1] Incident Response,"# NIST 800-53 Rev 4 Control: IR-1
+
+**Control Family:** Incident Response
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Incident Response - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control IR-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,IR-1,"RMF,NIST-800-53,IR,IR_1",Incident Response
+Epic,[IR-10] Incident Response,"# NIST 800-53 Rev 4 Control: IR-10
+
+**Control Family:** Incident Response
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Incident Response - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control IR-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,IR-10,"RMF,NIST-800-53,IR,IR_10",Incident Response
+Epic,[IR-2] Incident Response,"# NIST 800-53 Rev 4 Control: IR-2
+
+**Control Family:** Incident Response
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Incident Response - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control IR-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,IR-2,"RMF,NIST-800-53,IR,IR_2",Incident Response
+Epic,[IR-3] Incident Response,"# NIST 800-53 Rev 4 Control: IR-3
+
+**Control Family:** Incident Response
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Incident Response - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control IR-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,IR-3,"RMF,NIST-800-53,IR,IR_3",Incident Response
+Epic,[IR-4] Incident Response,"# NIST 800-53 Rev 4 Control: IR-4
+
+**Control Family:** Incident Response
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Incident Response - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control IR-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,IR-4,"RMF,NIST-800-53,IR,IR_4",Incident Response
+Epic,[IR-5] Incident Response,"# NIST 800-53 Rev 4 Control: IR-5
+
+**Control Family:** Incident Response
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Incident Response - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control IR-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,IR-5,"RMF,NIST-800-53,IR,IR_5",Incident Response
+Epic,[IR-6] Incident Response,"# NIST 800-53 Rev 4 Control: IR-6
+
+**Control Family:** Incident Response
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Incident Response - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control IR-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,IR-6,"RMF,NIST-800-53,IR,IR_6",Incident Response
+Epic,[IR-7] Incident Response,"# NIST 800-53 Rev 4 Control: IR-7
+
+**Control Family:** Incident Response
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Incident Response - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control IR-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,IR-7,"RMF,NIST-800-53,IR,IR_7",Incident Response
+Epic,[IR-8] Incident Response,"# NIST 800-53 Rev 4 Control: IR-8
+
+**Control Family:** Incident Response
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Incident Response - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control IR-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,IR-8,"RMF,NIST-800-53,IR,IR_8",Incident Response
+Epic,[IR-9] Incident Response,"# NIST 800-53 Rev 4 Control: IR-9
+
+**Control Family:** Incident Response
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Incident Response - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control IR-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,IR-9,"RMF,NIST-800-53,IR,IR_9",Incident Response
+Epic,[MA-1] Maintenance,"# NIST 800-53 Rev 4 Control: MA-1
+
+**Control Family:** Maintenance
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Maintenance - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control MA-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MA-1,"RMF,NIST-800-53,MA,MA_1",Maintenance
+Epic,[MA-10] Maintenance,"# NIST 800-53 Rev 4 Control: MA-10
+
+**Control Family:** Maintenance
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Maintenance - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control MA-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MA-10,"RMF,NIST-800-53,MA,MA_10",Maintenance
+Epic,[MA-2] Maintenance,"# NIST 800-53 Rev 4 Control: MA-2
+
+**Control Family:** Maintenance
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Maintenance - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control MA-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MA-2,"RMF,NIST-800-53,MA,MA_2",Maintenance
+Epic,[MA-3] Maintenance,"# NIST 800-53 Rev 4 Control: MA-3
+
+**Control Family:** Maintenance
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Maintenance - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control MA-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MA-3,"RMF,NIST-800-53,MA,MA_3",Maintenance
+Epic,[MA-4] Maintenance,"# NIST 800-53 Rev 4 Control: MA-4
+
+**Control Family:** Maintenance
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Maintenance - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control MA-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MA-4,"RMF,NIST-800-53,MA,MA_4",Maintenance
+Epic,[MA-5] Maintenance,"# NIST 800-53 Rev 4 Control: MA-5
+
+**Control Family:** Maintenance
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Maintenance - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control MA-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MA-5,"RMF,NIST-800-53,MA,MA_5",Maintenance
+Epic,[MA-6] Maintenance,"# NIST 800-53 Rev 4 Control: MA-6
+
+**Control Family:** Maintenance
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Maintenance - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control MA-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MA-6,"RMF,NIST-800-53,MA,MA_6",Maintenance
+Epic,[MA-7] Maintenance,"# NIST 800-53 Rev 4 Control: MA-7
+
+**Control Family:** Maintenance
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Maintenance - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control MA-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MA-7,"RMF,NIST-800-53,MA,MA_7",Maintenance
+Epic,[MA-8] Maintenance,"# NIST 800-53 Rev 4 Control: MA-8
+
+**Control Family:** Maintenance
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Maintenance - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control MA-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MA-8,"RMF,NIST-800-53,MA,MA_8",Maintenance
+Epic,[MA-9] Maintenance,"# NIST 800-53 Rev 4 Control: MA-9
+
+**Control Family:** Maintenance
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Maintenance - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control MA-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MA-9,"RMF,NIST-800-53,MA,MA_9",Maintenance
+Epic,[MP-1] Media Protection,"# NIST 800-53 Rev 4 Control: MP-1
+
+**Control Family:** Media Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Media Protection - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control MP-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MP-1,"RMF,NIST-800-53,MP,MP_1",Media Protection
+Epic,[MP-10] Media Protection,"# NIST 800-53 Rev 4 Control: MP-10
+
+**Control Family:** Media Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Media Protection - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control MP-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MP-10,"RMF,NIST-800-53,MP,MP_10",Media Protection
+Epic,[MP-2] Media Protection,"# NIST 800-53 Rev 4 Control: MP-2
+
+**Control Family:** Media Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Media Protection - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control MP-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MP-2,"RMF,NIST-800-53,MP,MP_2",Media Protection
+Epic,[MP-3] Media Protection,"# NIST 800-53 Rev 4 Control: MP-3
+
+**Control Family:** Media Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Media Protection - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control MP-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MP-3,"RMF,NIST-800-53,MP,MP_3",Media Protection
+Epic,[MP-4] Media Protection,"# NIST 800-53 Rev 4 Control: MP-4
+
+**Control Family:** Media Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Media Protection - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control MP-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MP-4,"RMF,NIST-800-53,MP,MP_4",Media Protection
+Epic,[MP-5] Media Protection,"# NIST 800-53 Rev 4 Control: MP-5
+
+**Control Family:** Media Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Media Protection - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control MP-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MP-5,"RMF,NIST-800-53,MP,MP_5",Media Protection
+Epic,[MP-6] Media Protection,"# NIST 800-53 Rev 4 Control: MP-6
+
+**Control Family:** Media Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Media Protection - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control MP-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MP-6,"RMF,NIST-800-53,MP,MP_6",Media Protection
+Epic,[MP-7] Media Protection,"# NIST 800-53 Rev 4 Control: MP-7
+
+**Control Family:** Media Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Media Protection - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control MP-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MP-7,"RMF,NIST-800-53,MP,MP_7",Media Protection
+Epic,[MP-8] Media Protection,"# NIST 800-53 Rev 4 Control: MP-8
+
+**Control Family:** Media Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Media Protection - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control MP-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MP-8,"RMF,NIST-800-53,MP,MP_8",Media Protection
+Epic,[MP-9] Media Protection,"# NIST 800-53 Rev 4 Control: MP-9
+
+**Control Family:** Media Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Media Protection - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control MP-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,MP-9,"RMF,NIST-800-53,MP,MP_9",Media Protection
+Epic,[PE-1] Physical and Environmental Protection,"# NIST 800-53 Rev 4 Control: PE-1
+
+**Control Family:** Physical and Environmental Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Physical and Environmental Protection - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control PE-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PE-1,"RMF,NIST-800-53,PE,PE_1",Physical and Environmental Protection
+Epic,[PE-10] Physical and Environmental Protection,"# NIST 800-53 Rev 4 Control: PE-10
+
+**Control Family:** Physical and Environmental Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Physical and Environmental Protection - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control PE-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PE-10,"RMF,NIST-800-53,PE,PE_10",Physical and Environmental Protection
+Epic,[PE-2] Physical and Environmental Protection,"# NIST 800-53 Rev 4 Control: PE-2
+
+**Control Family:** Physical and Environmental Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Physical and Environmental Protection - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control PE-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PE-2,"RMF,NIST-800-53,PE,PE_2",Physical and Environmental Protection
+Epic,[PE-3] Physical and Environmental Protection,"# NIST 800-53 Rev 4 Control: PE-3
+
+**Control Family:** Physical and Environmental Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Physical and Environmental Protection - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control PE-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PE-3,"RMF,NIST-800-53,PE,PE_3",Physical and Environmental Protection
+Epic,[PE-4] Physical and Environmental Protection,"# NIST 800-53 Rev 4 Control: PE-4
+
+**Control Family:** Physical and Environmental Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Physical and Environmental Protection - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control PE-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PE-4,"RMF,NIST-800-53,PE,PE_4",Physical and Environmental Protection
+Epic,[PE-5] Physical and Environmental Protection,"# NIST 800-53 Rev 4 Control: PE-5
+
+**Control Family:** Physical and Environmental Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Physical and Environmental Protection - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control PE-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PE-5,"RMF,NIST-800-53,PE,PE_5",Physical and Environmental Protection
+Epic,[PE-6] Physical and Environmental Protection,"# NIST 800-53 Rev 4 Control: PE-6
+
+**Control Family:** Physical and Environmental Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Physical and Environmental Protection - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control PE-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PE-6,"RMF,NIST-800-53,PE,PE_6",Physical and Environmental Protection
+Epic,[PE-7] Physical and Environmental Protection,"# NIST 800-53 Rev 4 Control: PE-7
+
+**Control Family:** Physical and Environmental Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Physical and Environmental Protection - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control PE-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PE-7,"RMF,NIST-800-53,PE,PE_7",Physical and Environmental Protection
+Epic,[PE-8] Physical and Environmental Protection,"# NIST 800-53 Rev 4 Control: PE-8
+
+**Control Family:** Physical and Environmental Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Physical and Environmental Protection - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control PE-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PE-8,"RMF,NIST-800-53,PE,PE_8",Physical and Environmental Protection
+Epic,[PE-9] Physical and Environmental Protection,"# NIST 800-53 Rev 4 Control: PE-9
+
+**Control Family:** Physical and Environmental Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Physical and Environmental Protection - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control PE-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PE-9,"RMF,NIST-800-53,PE,PE_9",Physical and Environmental Protection
+Epic,[PL-1] Planning,"# NIST 800-53 Rev 4 Control: PL-1
+
+**Control Family:** Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Planning - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control PL-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PL-1,"RMF,NIST-800-53,PL,PL_1",Planning
+Epic,[PL-10] Planning,"# NIST 800-53 Rev 4 Control: PL-10
+
+**Control Family:** Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Planning - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control PL-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PL-10,"RMF,NIST-800-53,PL,PL_10",Planning
+Epic,[PL-2] Planning,"# NIST 800-53 Rev 4 Control: PL-2
+
+**Control Family:** Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Planning - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control PL-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PL-2,"RMF,NIST-800-53,PL,PL_2",Planning
+Epic,[PL-3] Planning,"# NIST 800-53 Rev 4 Control: PL-3
+
+**Control Family:** Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Planning - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control PL-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PL-3,"RMF,NIST-800-53,PL,PL_3",Planning
+Epic,[PL-4] Planning,"# NIST 800-53 Rev 4 Control: PL-4
+
+**Control Family:** Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Planning - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control PL-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PL-4,"RMF,NIST-800-53,PL,PL_4",Planning
+Epic,[PL-5] Planning,"# NIST 800-53 Rev 4 Control: PL-5
+
+**Control Family:** Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Planning - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control PL-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PL-5,"RMF,NIST-800-53,PL,PL_5",Planning
+Epic,[PL-6] Planning,"# NIST 800-53 Rev 4 Control: PL-6
+
+**Control Family:** Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Planning - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control PL-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PL-6,"RMF,NIST-800-53,PL,PL_6",Planning
+Epic,[PL-7] Planning,"# NIST 800-53 Rev 4 Control: PL-7
+
+**Control Family:** Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Planning - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control PL-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PL-7,"RMF,NIST-800-53,PL,PL_7",Planning
+Epic,[PL-8] Planning,"# NIST 800-53 Rev 4 Control: PL-8
+
+**Control Family:** Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Planning - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control PL-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PL-8,"RMF,NIST-800-53,PL,PL_8",Planning
+Epic,[PL-9] Planning,"# NIST 800-53 Rev 4 Control: PL-9
+
+**Control Family:** Planning
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Planning - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control PL-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PL-9,"RMF,NIST-800-53,PL,PL_9",Planning
+Epic,[PM-1] Program Management,"# NIST 800-53 Rev 4 Control: PM-1
+
+**Control Family:** Program Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Program Management - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control PM-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PM-1,"RMF,NIST-800-53,PM,PM_1",Program Management
+Epic,[PM-10] Program Management,"# NIST 800-53 Rev 4 Control: PM-10
+
+**Control Family:** Program Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Program Management - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control PM-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PM-10,"RMF,NIST-800-53,PM,PM_10",Program Management
+Epic,[PM-2] Program Management,"# NIST 800-53 Rev 4 Control: PM-2
+
+**Control Family:** Program Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Program Management - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control PM-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PM-2,"RMF,NIST-800-53,PM,PM_2",Program Management
+Epic,[PM-3] Program Management,"# NIST 800-53 Rev 4 Control: PM-3
+
+**Control Family:** Program Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Program Management - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control PM-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PM-3,"RMF,NIST-800-53,PM,PM_3",Program Management
+Epic,[PM-4] Program Management,"# NIST 800-53 Rev 4 Control: PM-4
+
+**Control Family:** Program Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Program Management - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control PM-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PM-4,"RMF,NIST-800-53,PM,PM_4",Program Management
+Epic,[PM-5] Program Management,"# NIST 800-53 Rev 4 Control: PM-5
+
+**Control Family:** Program Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Program Management - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control PM-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PM-5,"RMF,NIST-800-53,PM,PM_5",Program Management
+Epic,[PM-6] Program Management,"# NIST 800-53 Rev 4 Control: PM-6
+
+**Control Family:** Program Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Program Management - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control PM-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PM-6,"RMF,NIST-800-53,PM,PM_6",Program Management
+Epic,[PM-7] Program Management,"# NIST 800-53 Rev 4 Control: PM-7
+
+**Control Family:** Program Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Program Management - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control PM-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PM-7,"RMF,NIST-800-53,PM,PM_7",Program Management
+Epic,[PM-8] Program Management,"# NIST 800-53 Rev 4 Control: PM-8
+
+**Control Family:** Program Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Program Management - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control PM-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PM-8,"RMF,NIST-800-53,PM,PM_8",Program Management
+Epic,[PM-9] Program Management,"# NIST 800-53 Rev 4 Control: PM-9
+
+**Control Family:** Program Management
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Program Management - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control PM-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PM-9,"RMF,NIST-800-53,PM,PM_9",Program Management
+Epic,[PS-1] Personnel Security,"# NIST 800-53 Rev 4 Control: PS-1
+
+**Control Family:** Personnel Security
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Personnel Security - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control PS-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PS-1,"RMF,NIST-800-53,PS,PS_1",Personnel Security
+Epic,[PS-10] Personnel Security,"# NIST 800-53 Rev 4 Control: PS-10
+
+**Control Family:** Personnel Security
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Personnel Security - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control PS-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PS-10,"RMF,NIST-800-53,PS,PS_10",Personnel Security
+Epic,[PS-2] Personnel Security,"# NIST 800-53 Rev 4 Control: PS-2
+
+**Control Family:** Personnel Security
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Personnel Security - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control PS-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PS-2,"RMF,NIST-800-53,PS,PS_2",Personnel Security
+Epic,[PS-3] Personnel Security,"# NIST 800-53 Rev 4 Control: PS-3
+
+**Control Family:** Personnel Security
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Personnel Security - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control PS-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PS-3,"RMF,NIST-800-53,PS,PS_3",Personnel Security
+Epic,[PS-4] Personnel Security,"# NIST 800-53 Rev 4 Control: PS-4
+
+**Control Family:** Personnel Security
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Personnel Security - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control PS-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PS-4,"RMF,NIST-800-53,PS,PS_4",Personnel Security
+Epic,[PS-5] Personnel Security,"# NIST 800-53 Rev 4 Control: PS-5
+
+**Control Family:** Personnel Security
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Personnel Security - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control PS-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PS-5,"RMF,NIST-800-53,PS,PS_5",Personnel Security
+Epic,[PS-6] Personnel Security,"# NIST 800-53 Rev 4 Control: PS-6
+
+**Control Family:** Personnel Security
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Personnel Security - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control PS-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PS-6,"RMF,NIST-800-53,PS,PS_6",Personnel Security
+Epic,[PS-7] Personnel Security,"# NIST 800-53 Rev 4 Control: PS-7
+
+**Control Family:** Personnel Security
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Personnel Security - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control PS-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PS-7,"RMF,NIST-800-53,PS,PS_7",Personnel Security
+Epic,[PS-8] Personnel Security,"# NIST 800-53 Rev 4 Control: PS-8
+
+**Control Family:** Personnel Security
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Personnel Security - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control PS-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PS-8,"RMF,NIST-800-53,PS,PS_8",Personnel Security
+Epic,[PS-9] Personnel Security,"# NIST 800-53 Rev 4 Control: PS-9
+
+**Control Family:** Personnel Security
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Personnel Security - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control PS-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,PS-9,"RMF,NIST-800-53,PS,PS_9",Personnel Security
+Epic,[RA-1] Risk Assessment,"# NIST 800-53 Rev 4 Control: RA-1
+
+**Control Family:** Risk Assessment
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Risk Assessment - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control RA-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,RA-1,"RMF,NIST-800-53,RA,RA_1",Risk Assessment
+Epic,[RA-10] Risk Assessment,"# NIST 800-53 Rev 4 Control: RA-10
+
+**Control Family:** Risk Assessment
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Risk Assessment - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control RA-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,RA-10,"RMF,NIST-800-53,RA,RA_10",Risk Assessment
+Epic,[RA-2] Risk Assessment,"# NIST 800-53 Rev 4 Control: RA-2
+
+**Control Family:** Risk Assessment
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Risk Assessment - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control RA-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,RA-2,"RMF,NIST-800-53,RA,RA_2",Risk Assessment
+Epic,[RA-3] Risk Assessment,"# NIST 800-53 Rev 4 Control: RA-3
+
+**Control Family:** Risk Assessment
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Risk Assessment - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control RA-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,RA-3,"RMF,NIST-800-53,RA,RA_3",Risk Assessment
+Epic,[RA-4] Risk Assessment,"# NIST 800-53 Rev 4 Control: RA-4
+
+**Control Family:** Risk Assessment
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Risk Assessment - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control RA-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,RA-4,"RMF,NIST-800-53,RA,RA_4",Risk Assessment
+Epic,[RA-5] Risk Assessment,"# NIST 800-53 Rev 4 Control: RA-5
+
+**Control Family:** Risk Assessment
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Risk Assessment - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control RA-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,RA-5,"RMF,NIST-800-53,RA,RA_5",Risk Assessment
+Epic,[RA-6] Risk Assessment,"# NIST 800-53 Rev 4 Control: RA-6
+
+**Control Family:** Risk Assessment
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Risk Assessment - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control RA-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,RA-6,"RMF,NIST-800-53,RA,RA_6",Risk Assessment
+Epic,[RA-7] Risk Assessment,"# NIST 800-53 Rev 4 Control: RA-7
+
+**Control Family:** Risk Assessment
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Risk Assessment - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control RA-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,RA-7,"RMF,NIST-800-53,RA,RA_7",Risk Assessment
+Epic,[RA-8] Risk Assessment,"# NIST 800-53 Rev 4 Control: RA-8
+
+**Control Family:** Risk Assessment
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Risk Assessment - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control RA-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,RA-8,"RMF,NIST-800-53,RA,RA_8",Risk Assessment
+Epic,[RA-9] Risk Assessment,"# NIST 800-53 Rev 4 Control: RA-9
+
+**Control Family:** Risk Assessment
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** Risk Assessment - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control RA-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Medium,RA-9,"RMF,NIST-800-53,RA,RA_9",Risk Assessment
+Epic,[SA-1] System and Services Acquisition,"# NIST 800-53 Rev 4 Control: SA-1
+
+**Control Family:** System and Services Acquisition
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Services Acquisition - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control SA-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,SA-1,"RMF,NIST-800-53,SA,SA_1",System and Services Acquisition
+Epic,[SA-10] System and Services Acquisition,"# NIST 800-53 Rev 4 Control: SA-10
+
+**Control Family:** System and Services Acquisition
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Services Acquisition - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control SA-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,SA-10,"RMF,NIST-800-53,SA,SA_10",System and Services Acquisition
+Epic,[SA-2] System and Services Acquisition,"# NIST 800-53 Rev 4 Control: SA-2
+
+**Control Family:** System and Services Acquisition
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Services Acquisition - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control SA-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,SA-2,"RMF,NIST-800-53,SA,SA_2",System and Services Acquisition
+Epic,[SA-3] System and Services Acquisition,"# NIST 800-53 Rev 4 Control: SA-3
+
+**Control Family:** System and Services Acquisition
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Services Acquisition - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control SA-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,SA-3,"RMF,NIST-800-53,SA,SA_3",System and Services Acquisition
+Epic,[SA-4] System and Services Acquisition,"# NIST 800-53 Rev 4 Control: SA-4
+
+**Control Family:** System and Services Acquisition
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Services Acquisition - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control SA-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,SA-4,"RMF,NIST-800-53,SA,SA_4",System and Services Acquisition
+Epic,[SA-5] System and Services Acquisition,"# NIST 800-53 Rev 4 Control: SA-5
+
+**Control Family:** System and Services Acquisition
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Services Acquisition - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control SA-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,SA-5,"RMF,NIST-800-53,SA,SA_5",System and Services Acquisition
+Epic,[SA-6] System and Services Acquisition,"# NIST 800-53 Rev 4 Control: SA-6
+
+**Control Family:** System and Services Acquisition
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Services Acquisition - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control SA-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,SA-6,"RMF,NIST-800-53,SA,SA_6",System and Services Acquisition
+Epic,[SA-7] System and Services Acquisition,"# NIST 800-53 Rev 4 Control: SA-7
+
+**Control Family:** System and Services Acquisition
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Services Acquisition - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control SA-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,SA-7,"RMF,NIST-800-53,SA,SA_7",System and Services Acquisition
+Epic,[SA-8] System and Services Acquisition,"# NIST 800-53 Rev 4 Control: SA-8
+
+**Control Family:** System and Services Acquisition
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Services Acquisition - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control SA-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,SA-8,"RMF,NIST-800-53,SA,SA_8",System and Services Acquisition
+Epic,[SA-9] System and Services Acquisition,"# NIST 800-53 Rev 4 Control: SA-9
+
+**Control Family:** System and Services Acquisition
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Services Acquisition - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control SA-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",Low,SA-9,"RMF,NIST-800-53,SA,SA_9",System and Services Acquisition
+Epic,[SC-1] System and Communications Protection,"# NIST 800-53 Rev 4 Control: SC-1
+
+**Control Family:** System and Communications Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Communications Protection - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control SC-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SC-1,"RMF,NIST-800-53,SC,SC_1",System and Communications Protection
+Epic,[SC-10] System and Communications Protection,"# NIST 800-53 Rev 4 Control: SC-10
+
+**Control Family:** System and Communications Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Communications Protection - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control SC-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SC-10,"RMF,NIST-800-53,SC,SC_10",System and Communications Protection
+Epic,[SC-2] System and Communications Protection,"# NIST 800-53 Rev 4 Control: SC-2
+
+**Control Family:** System and Communications Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Communications Protection - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control SC-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SC-2,"RMF,NIST-800-53,SC,SC_2",System and Communications Protection
+Epic,[SC-3] System and Communications Protection,"# NIST 800-53 Rev 4 Control: SC-3
+
+**Control Family:** System and Communications Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Communications Protection - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control SC-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SC-3,"RMF,NIST-800-53,SC,SC_3",System and Communications Protection
+Epic,[SC-4] System and Communications Protection,"# NIST 800-53 Rev 4 Control: SC-4
+
+**Control Family:** System and Communications Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Communications Protection - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control SC-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SC-4,"RMF,NIST-800-53,SC,SC_4",System and Communications Protection
+Epic,[SC-5] System and Communications Protection,"# NIST 800-53 Rev 4 Control: SC-5
+
+**Control Family:** System and Communications Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Communications Protection - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control SC-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SC-5,"RMF,NIST-800-53,SC,SC_5",System and Communications Protection
+Epic,[SC-6] System and Communications Protection,"# NIST 800-53 Rev 4 Control: SC-6
+
+**Control Family:** System and Communications Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Communications Protection - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control SC-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SC-6,"RMF,NIST-800-53,SC,SC_6",System and Communications Protection
+Epic,[SC-7] System and Communications Protection,"# NIST 800-53 Rev 4 Control: SC-7
+
+**Control Family:** System and Communications Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Communications Protection - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control SC-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SC-7,"RMF,NIST-800-53,SC,SC_7",System and Communications Protection
+Epic,[SC-8] System and Communications Protection,"# NIST 800-53 Rev 4 Control: SC-8
+
+**Control Family:** System and Communications Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Communications Protection - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control SC-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SC-8,"RMF,NIST-800-53,SC,SC_8",System and Communications Protection
+Epic,[SC-9] System and Communications Protection,"# NIST 800-53 Rev 4 Control: SC-9
+
+**Control Family:** System and Communications Protection
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Communications Protection - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control SC-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SC-9,"RMF,NIST-800-53,SC,SC_9",System and Communications Protection
+Epic,[SI-1] System and Information Integrity,"# NIST 800-53 Rev 4 Control: SI-1
+
+**Control Family:** System and Information Integrity
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Information Integrity - Control 1
+
+---
+*This Epic tracks the complete RMF lifecycle for control SI-1.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SI-1,"RMF,NIST-800-53,SI,SI_1",System and Information Integrity
+Epic,[SI-10] System and Information Integrity,"# NIST 800-53 Rev 4 Control: SI-10
+
+**Control Family:** System and Information Integrity
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Information Integrity - Control 10
+
+---
+*This Epic tracks the complete RMF lifecycle for control SI-10.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SI-10,"RMF,NIST-800-53,SI,SI_10",System and Information Integrity
+Epic,[SI-2] System and Information Integrity,"# NIST 800-53 Rev 4 Control: SI-2
+
+**Control Family:** System and Information Integrity
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Information Integrity - Control 2
+
+---
+*This Epic tracks the complete RMF lifecycle for control SI-2.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SI-2,"RMF,NIST-800-53,SI,SI_2",System and Information Integrity
+Epic,[SI-3] System and Information Integrity,"# NIST 800-53 Rev 4 Control: SI-3
+
+**Control Family:** System and Information Integrity
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Information Integrity - Control 3
+
+---
+*This Epic tracks the complete RMF lifecycle for control SI-3.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SI-3,"RMF,NIST-800-53,SI,SI_3",System and Information Integrity
+Epic,[SI-4] System and Information Integrity,"# NIST 800-53 Rev 4 Control: SI-4
+
+**Control Family:** System and Information Integrity
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Information Integrity - Control 4
+
+---
+*This Epic tracks the complete RMF lifecycle for control SI-4.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SI-4,"RMF,NIST-800-53,SI,SI_4",System and Information Integrity
+Epic,[SI-5] System and Information Integrity,"# NIST 800-53 Rev 4 Control: SI-5
+
+**Control Family:** System and Information Integrity
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Information Integrity - Control 5
+
+---
+*This Epic tracks the complete RMF lifecycle for control SI-5.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SI-5,"RMF,NIST-800-53,SI,SI_5",System and Information Integrity
+Epic,[SI-6] System and Information Integrity,"# NIST 800-53 Rev 4 Control: SI-6
+
+**Control Family:** System and Information Integrity
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Information Integrity - Control 6
+
+---
+*This Epic tracks the complete RMF lifecycle for control SI-6.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SI-6,"RMF,NIST-800-53,SI,SI_6",System and Information Integrity
+Epic,[SI-7] System and Information Integrity,"# NIST 800-53 Rev 4 Control: SI-7
+
+**Control Family:** System and Information Integrity
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Information Integrity - Control 7
+
+---
+*This Epic tracks the complete RMF lifecycle for control SI-7.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SI-7,"RMF,NIST-800-53,SI,SI_7",System and Information Integrity
+Epic,[SI-8] System and Information Integrity,"# NIST 800-53 Rev 4 Control: SI-8
+
+**Control Family:** System and Information Integrity
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Information Integrity - Control 8
+
+---
+*This Epic tracks the complete RMF lifecycle for control SI-8.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SI-8,"RMF,NIST-800-53,SI,SI_8",System and Information Integrity
+Epic,[SI-9] System and Information Integrity,"# NIST 800-53 Rev 4 Control: SI-9
+
+**Control Family:** System and Information Integrity
+
+**RMF Steps:**
+1. ✅ PREPARE - Control identified and selected
+2. 🔄 IMPLEMENT - Deploy control requirements
+3. 🔄 ASSESS - Test control effectiveness
+4. 🔄 AUTHORIZE - Document and approve
+5. 🔄 MONITOR - Continuous assessment
+
+**CCIs Mapped:** 3
+
+**Sample Text:** System and Information Integrity - Control 9
+
+---
+*This Epic tracks the complete RMF lifecycle for control SI-9.*
+*Create child Stories for Implementation, Assessment, and Verification tasks.*
+",High,SI-9,"RMF,NIST-800-53,SI,SI_9",System and Information Integrity
