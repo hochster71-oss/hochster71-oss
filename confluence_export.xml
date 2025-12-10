@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<confluence-objects>
+  <object>
+    <space>
+      <key>BMC3RMF</key>
+      <name>BMC3 Sandbox RMF Package</name>
+      <description>DoD Risk Management Framework (RMF) continuous Authorization to Operate (cATO) package for SDA BMC3 Sandbox - Complete NIST 800-53 Rev 4 implementation tracking.</description>
+      <homePage>
+        <title>BMC3 Sandbox RMF Home</title>
+        <content>
+          <![CDATA[
+<h1>🛡️ BMC3 Sandbox RMF Package</h1>
+
+<ac:structured-macro ac:name="info">
+  <ac:rich-text-body>
+    <p><strong>System:</strong> Space Development Agency (SDA) Battle Management Command, Control, and Communications (BMC3) Sandbox</p>
+    <p><strong>Framework:</strong> NIST SP 800-37 Rev 2 - Risk Management Framework</p>
+    <p><strong>Controls:</strong> NIST SP 800-53 Rev 4</p>
+    <p><strong>Last Updated:</strong> 2025-12-10</p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<h2>📋 Overview</h2>
+<p>This Confluence space contains the complete RMF authorization package for the BMC3 Sandbox system, including:</p>
+<ul>
+  <li>System Security Plan (SSP)</li>
+  <li>Security Assessment Report (SAR)</li>
+  <li>Plan of Action &amp; Milestones (POA&amp;M)</li>
+  <li>Authorization Decision Document</li>
+  <li>Continuous Monitoring Strategy</li>
+  <li>Complete NIST 800-53 Rev 4 Control Flow Diagram</li>
+</ul>
+
+<h2>🎯 RMF Process Steps</h2>
+
+<table>
+  <tr>
+    <th>Step</th>
+    <th>Phase</th>
+    <th>Status</th>
+    <th>Completion</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>PREPARE</td>
+    <td><ac:emoticon ac:name="tick" /></td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>SELECT</td>
+    <td><ac:emoticon ac:name="tick" /></td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>IMPLEMENT</td>
+    <td><ac:emoticon ac:name="yellow-star" /></td>
+    <td>75%</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>ASSESS</td>
+    <td><ac:emoticon ac:name="yellow-star" /></td>
+    <td>60%</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>AUTHORIZE</td>
+    <td><ac:emoticon ac:name="warning" /></td>
+    <td>25%</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>MONITOR</td>
+    <td><ac:emoticon ac:name="warning" /></td>
+    <td>10%</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>DECOMMISSION</td>
+    <td><ac:emoticon ac:name="cross" /></td>
+    <td>0%</td>
+  </tr>
+</table>
+
+<h2>📊 Control Implementation Status</h2>
+
+<ac:structured-macro ac:name="chart">
+  <ac:parameter ac:name="type">pie</ac:parameter>
+  <ac:parameter ac:name="title">Control Implementation Status</ac:parameter>
+  <ac:rich-text-body>
+    <table>
+      <tr><th>Status</th><th>Count</th></tr>
+      <tr><td>Implemented</td><td>120</td></tr>
+      <tr><td>In Progress</td><td>45</td></tr>
+      <tr><td>Not Started</td><td>15</td></tr>
+    </table>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<h2>🔗 Quick Links</h2>
+<ul>
+  <li><a href="/wiki/spaces/BMC3RMF/pages/ssp">System Security Plan (SSP)</a></li>
+  <li><a href="/wiki/spaces/BMC3RMF/pages/sar">Security Assessment Report (SAR)</a></li>
+  <li><a href="/wiki/spaces/BMC3RMF/pages/poam">Plan of Action &amp; Milestones (POA&amp;M)</a></li>
+  <li><a href="/wiki/spaces/BMC3RMF/pages/flowchart">Complete RMF Flow Diagram</a></li>
+  <li><a href="/wiki/spaces/BMC3RMF/pages/controls">Control Matrix</a></li>
+</ul>
+
+<h2>📚 Reference Documents</h2>
+<ul>
+  <li>NIST SP 800-37 Rev 2 - Risk Management Framework</li>
+  <li>NIST SP 800-53 Rev 4 - Security and Privacy Controls</li>
+  <li>DISA CCI List - Control Correlation Identifiers</li>
+  <li>DoD Instruction 8510.01 - RMF for DoD IT</li>
+</ul>
+
+<ac:structured-macro ac:name="warning">
+  <ac:rich-text-body>
+    <p><strong>CONTROLLED UNCLASSIFIED INFORMATION (CUI)</strong></p>
+    <p>This space contains sensitive security information. Access is restricted to authorized personnel only.</p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+          ]]>
+        </content>
+      </homePage>
+    </space>
+  </object>
+
+  <!-- System Security Plan (SSP) Page -->
+  <object>
+    <page>
+      <title>System Security Plan (SSP)</title>
+      <space>BMC3RMF</space>
+      <content>
+        <![CDATA[
+<h1>System Security Plan (SSP)</h1>
+
+<ac:structured-macro ac:name="toc">
+  <ac:parameter ac:name="maxLevel">3</ac:parameter>
+</ac:structured-macro>
+
+<h2>1. System Identification</h2>
+<p><strong>System Name:</strong> SDA BMC3 Sandbox</p>
+<p><strong>System Abbreviation:</strong> BMC3-SANDBOX</p>
+<p><strong>System Owner:</strong> Space Development Agency</p>
+<p><strong>Security Impact Level:</strong> MODERATE</p>
+
+<h2>2. System Categorization</h2>
+<p>Per FIPS 199, the BMC3 Sandbox is categorized as:</p>
+<ul>
+  <li><strong>Confidentiality:</strong> MODERATE</li>
+  <li><strong>Integrity:</strong> MODERATE</li>
+  <li><strong>Availability:</strong> MODERATE</li>
+</ul>
+
+<h2>3. System Description</h2>
+<p>The BMC3 Sandbox is a development and testing environment for Battle Management Command, Control, and Communications capabilities. It provides a secure platform for prototyping, integration, and validation of BMC3 technologies.</p>
+
+<h2>4. System Environment</h2>
+<p><strong>Deployment Model:</strong> Hybrid Cloud (AWS GovCloud + On-Premises)</p>
+<p><strong>Service Model:</strong> IaaS, PaaS, SaaS</p>
+
+<h2>5. Control Implementation Summary</h2>
+<p>This SSP documents the implementation of all applicable NIST 800-53 Rev 4 controls for the MODERATE baseline.</p>
+
+<ac:structured-macro ac:name="children">
+  <ac:parameter ac:name="all">true</ac:parameter>
+</ac:structured-macro>
+        ]]>
+      </content>
+    </page>
+  </object>
+
+  <!-- RMF Flow Diagram Page -->
+  <object>
+    <page>
+      <title>Complete RMF Flow Diagram</title>
+      <space>BMC3RMF</space>
+      <content>
+        <![CDATA[
+<h1>Complete RMF Flow Diagram</h1>
+
+<ac:structured-macro ac:name="info">
+  <ac:rich-text-body>
+    <p>This diagram shows the complete Risk Management Framework (RMF) implementation flow for all NIST SP 800-53 Rev 4 controls applicable to the BMC3 Sandbox.</p>
+    <p><strong>Generated:</strong> 2025-12-10</p>
+    <p><strong>Controls:</strong> All NIST 800-53 Rev 4 MODERATE baseline controls</p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<h2>Viewing Instructions</h2>
+<ol>
+  <li>The diagram is generated in Mermaid format</li>
+  <li>To view in Confluence, install a Mermaid plugin (e.g., "Mermaid Diagrams for Confluence")</li>
+  <li>Alternatively, view the source file at: <a href="https://mermaid.live">https://mermaid.live</a></li>
+  <li>Copy the contents of BMC3_RMF_Rev4.mmd and paste into Mermaid Live Editor</li>
+</ol>
+
+<h2>Diagram Overview</h2>
+<p>The flowchart includes:</p>
+<ul>
+  <li>All 7 RMF steps (PREPARE, SELECT, IMPLEMENT, ASSESS, AUTHORIZE, MONITOR, DECOMMISSION)</li>
+  <li>Individual control flows for each NIST 800-53 Rev 4 control</li>
+  <li>Color-coded steps for visual clarity</li>
+  <li>Legend explaining each RMF step</li>
+</ul>
+
+<ac:structured-macro ac:name="code">
+  <ac:parameter ac:name="language">mermaid</ac:parameter>
+  <ac:parameter ac:name="title">RMF Flow Diagram</ac:parameter>
+  <ac:plain-text-body>
+    <![CDATA[
+%%{init: {'theme':'base', 'themeVariables': { 'fontSize':'14px'}}}%%
+graph TB
+    START([🚀 BMC3 Sandbox RMF Process])
+    START --> PREPARE
+    PREPARE[Step 1: PREPARE]
+    PREPARE --> SELECT
+    SELECT[Step 2: SELECT]
+    SELECT --> IMPLEMENT
+    IMPLEMENT[Step 3: IMPLEMENT]
+    IMPLEMENT --> ASSESS
+    ASSESS[Step 4: ASSESS]
+    ASSESS --> AUTHORIZE
+    AUTHORIZE[Step 5: AUTHORIZE]
+    AUTHORIZE --> MONITOR
+    MONITOR[Step 6: MONITOR]
+    MONITOR --> DECOMMISSION
+    DECOMMISSION[Step 7: DECOMMISSION]
+    DECOMMISSION --> END
+    END([✅ Process Complete])
+    
+    style PREPARE fill:#E8F4F8,stroke:#0277BD
+    style SELECT fill:#FFF4E6,stroke:#EF6C00
+    style IMPLEMENT fill:#E8F5E9,stroke:#2E7D32
+    style ASSESS fill:#FFF9C4,stroke:#F9A825
+    style AUTHORIZE fill:#F3E5F5,stroke:#6A1B9A
+    style MONITOR fill:#FFE0B2,stroke:#E65100
+    style DECOMMISSION fill:#FFCDD2,stroke:#C62828
+    ]]>
+  </ac:plain-text-body>
+</ac:structured-macro>
+
+<h2>Full Diagram File</h2>
+<p>The complete diagram with all controls is available in the repository:</p>
+<ac:structured-macro ac:name="code">
+  <ac:parameter ac:name="language">bash</ac:parameter>
+  <ac:plain-text-body>
+    <![CDATA[
+# View the complete diagram
+cat BMC3_RMF_Rev4.mmd
+
+# Or regenerate it
+./run_all.sh
+    ]]>
+  </ac:plain-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="tip">
+  <ac:rich-text-body>
+    <p>For best viewing experience, use a Mermaid-compatible viewer or the Mermaid Live Editor at https://mermaid.live</p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+        ]]>
+      </content>
+    </page>
+  </object>
+
+  <!-- Control Matrix Page -->
+  <object>
+    <page>
+      <title>Control Matrix</title>
+      <space>BMC3RMF</space>
+      <content>
+        <![CDATA[
+<h1>NIST 800-53 Rev 4 Control Matrix</h1>
+
+<p>This matrix tracks the implementation status of all applicable NIST 800-53 Rev 4 controls.</p>
+
+<h2>Control Families</h2>
+
+<ac:structured-macro ac:name="expand">
+  <ac:parameter ac:name="title">AC - Access Control</ac:parameter>
+  <ac:rich-text-body>
+    <p>Controls related to limiting information system access to authorized users, processes, and devices.</p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="expand">
+  <ac:parameter ac:name="title">AU - Audit and Accountability</ac:parameter>
+  <ac:rich-text-body>
+    <p>Controls related to creating, protecting, and retaining audit records to enable monitoring and analysis.</p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="expand">
+  <ac:parameter ac:name="title">CA - Security Assessment and Authorization</ac:parameter>
+  <ac:rich-text-body>
+    <p>Controls related to periodic assessment and authorization of security controls.</p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="expand">
+  <ac:parameter ac:name="title">CM - Configuration Management</ac:parameter>
+  <ac:rich-text-body>
+    <p>Controls related to establishing and maintaining baseline configurations.</p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="expand">
+  <ac:parameter ac:name="title">SC - System and Communications Protection</ac:parameter>
+  <ac:rich-text-body>
+    <p>Controls related to protecting information system boundaries and communications.</p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<p><em>Additional control families are documented in the generated CSV files.</em></p>
+
+<h2>Implementation Status Legend</h2>
+<ul>
+  <li>✅ <strong>Implemented</strong> - Control is fully deployed and operational</li>
+  <li>🟡 <strong>Partially Implemented</strong> - Control is in progress</li>
+  <li>❌ <strong>Not Implemented</strong> - Control implementation not started</li>
+  <li>📋 <strong>Planned</strong> - Control scheduled for implementation</li>
+  <li>🚫 <strong>Not Applicable</strong> - Control does not apply to this system</li>
+</ul>
+        ]]>
+      </content>
+    </page>
+  </object>
+</confluence-objects>
