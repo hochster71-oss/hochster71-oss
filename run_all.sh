@@ -19,8 +19,11 @@ BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 
 echo -e "${BLUE}========================================================================${NC}"
-echo -e "${BLUE}  BMC3 Sandbox RMF Package Generator${NC}"
+echo -e "${BLUE}                  SAIC RMF AUTOMATION SUITE                            ${NC}"
+echo -e "${BLUE}========================================================================${NC}"
 echo -e "${BLUE}  DoD Risk Management Framework (NIST SP 800-37 Rev 2)${NC}"
+echo -e "${BLUE}  Developed by: Michael Hoch | SAIC${NC}"
+echo -e "${BLUE}  www.saic.com${NC}"
 echo -e "${BLUE}========================================================================${NC}"
 echo ""
 
@@ -70,7 +73,8 @@ echo ""
 
 # Summary
 echo -e "${GREEN}========================================================================${NC}"
-echo -e "${GREEN}✓ All Components Generated Successfully!${NC}"
+echo -e "${GREEN}✓ SAIC RMF Package Generated Successfully!${NC}"
+echo -e "${GREEN}  Developed by Michael Hoch | SAIC${NC}"
 echo -e "${GREEN}========================================================================${NC}"
 echo ""
 echo -e "${BLUE}Generated Files:${NC}"

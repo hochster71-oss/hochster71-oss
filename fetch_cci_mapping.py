@@ -132,7 +132,9 @@ def write_csv(controls):
 
 def main():
     print("=" * 70)
+    print("SAIC RMF AUTOMATION SUITE")
     print("DISA CCI → NIST 800-53 Mapping Fetcher")
+    print("Developed by Michael Hoch | SAIC")
     print("=" * 70)
     
     # Try to download from official source

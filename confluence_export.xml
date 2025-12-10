@@ -3,25 +3,36 @@
   <object>
     <space>
       <key>BMC3RMF</key>
-      <name>BMC3 Sandbox RMF Package</name>
-      <description>DoD Risk Management Framework (RMF) continuous Authorization to Operate (cATO) package for SDA BMC3 Sandbox - Complete NIST 800-53 Rev 4 implementation tracking.</description>
+      <name>SAIC RMF Automation Suite</name>
+      <description>DoD Risk Management Framework (RMF) continuous Authorization to Operate (cATO) package - Complete NIST 800-53 Rev 4 implementation tracking. Developed by Michael Hoch | SAIC</description>
       <homePage>
-        <title>BMC3 Sandbox RMF Home</title>
+        <title>SAIC RMF Automation Home</title>
         <content>
           <![CDATA[
-<h1>🛡️ BMC3 Sandbox RMF Package</h1>
+<h1>🛡️ SAIC RMF Automation Suite</h1>
+
+<ac:structured-macro ac:name="panel">
+  <ac:parameter ac:name="bgColor">#1a1a2e</ac:parameter>
+  <ac:parameter ac:name="borderColor">#16213e</ac:parameter>
+  <ac:rich-text-body>
+    <p style="text-align: center; color: #00d9ff;"><strong style="font-size: 18px;">SAIC Enterprise RMF Solution</strong></p>
+    <p style="text-align: center; color: #ffffff;">Developed by <strong>Michael Hoch</strong> | SAIC</p>
+    <p style="text-align: center; color: #a0a0a0;"><em>www.saic.com</em></p>
+  </ac:rich-text-body>
+</ac:structured-macro>
 
 <ac:structured-macro ac:name="info">
   <ac:rich-text-body>
-    <p><strong>System:</strong> Space Development Agency (SDA) Battle Management Command, Control, and Communications (BMC3) Sandbox</p>
+    <p><strong>System:</strong> DoD Mission-Critical Systems</p>
     <p><strong>Framework:</strong> NIST SP 800-37 Rev 2 - Risk Management Framework</p>
     <p><strong>Controls:</strong> NIST SP 800-53 Rev 4</p>
+    <p><strong>Developer:</strong> Michael Hoch | SAIC</p>
     <p><strong>Last Updated:</strong> 2025-12-10</p>
   </ac:rich-text-body>
 </ac:structured-macro>
 
 <h2>📋 Overview</h2>
-<p>This Confluence space contains the complete RMF authorization package for the BMC3 Sandbox system, including:</p>
+<p>This Confluence space contains the complete RMF authorization package developed by SAIC, including:</p>
 <ul>
   <li>System Security Plan (SSP)</li>
   <li>Security Assessment Report (SAR)</li>

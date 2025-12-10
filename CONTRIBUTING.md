@@ -1,6 +1,13 @@
-# Contributing to hochster71-oss
+# Contributing to SAIC RMF Automation Suite
 
-Thank you for your interest in contributing to the BMC3 Sandbox RMF Package! This document provides guidelines for contributing to the project.
+<div align="center">
+  <p><strong>Developed by Michael Hoch | SAIC</strong></p>
+  <p><em>Science Applications International Corporation</em></p>
+</div>
+
+---
+
+Thank you for your interest in contributing to the SAIC RMF Automation Suite! This document provides guidelines for contributing to the project.
 
 ## 🎯 Ways to Contribute
 

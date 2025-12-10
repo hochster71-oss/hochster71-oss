@@ -1,6 +1,15 @@
-﻿# hochster71-oss â€“ DoD RMF cATO Package for BMC3 Sandbox
+﻿# SAIC RMF Automation Suite
+## DoD Risk Management Framework (RMF) cATO Package
 
-A complete, production-ready artefact set that generates:
+<div align="center">
+  <h3>🛡️ Enterprise RMF Compliance Automation</h3>
+  <p><strong>Developed by Michael Hoch | SAIC</strong></p>
+  <p><em>Powered by SAIC Innovation</em></p>
+</div>
+
+---
+
+A complete, production-ready enterprise artefact set that generates:
 
 * A **full Mermaid flow-chart** (RMF Steps 1-7, 100% completed) for **every** NIST SP 800-53 Rev 4 control.  
 * **Jira bulk-import CSVs** (Epics = controls, Stories = Implementation/Test/Verification).  
@@ -80,3 +89,13 @@ For issues or questions:
 * DISA for the authoritative CCI mappings
 * NIST for the 800-53 framework
 * The DoD RMF community
+* SAIC for enterprise support and innovation
+
+---
+
+<div align="center">
+  <p><strong>© 2025 SAIC | Science Applications International Corporation</strong></p>
+  <p>Developed by <strong>Michael Hoch</strong></p>
+  <p><a href="https://www.saic.com">www.saic.com</a></p>
+  <p><em>Delivering Mission-Critical Solutions</em></p>
+</div>

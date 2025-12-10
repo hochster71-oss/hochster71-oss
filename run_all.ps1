@@ -10,10 +10,13 @@
 
 $ErrorActionPreference = "Stop"
 
-Write-Host "========================================================================" -ForegroundColor Blue
-Write-Host "  BMC3 Sandbox RMF Package Generator" -ForegroundColor Blue
-Write-Host "  DoD Risk Management Framework (NIST SP 800-37 Rev 2)" -ForegroundColor Blue
-Write-Host "========================================================================" -ForegroundColor Blue
+Write-Host "========================================================================" -ForegroundColor Cyan
+Write-Host "                    SAIC RMF AUTOMATION SUITE                           " -ForegroundColor Cyan
+Write-Host "========================================================================" -ForegroundColor Cyan
+Write-Host "  DoD Risk Management Framework (NIST SP 800-37 Rev 2)" -ForegroundColor White
+Write-Host "  Developed by: Michael Hoch | SAIC" -ForegroundColor Gray
+Write-Host "  www.saic.com" -ForegroundColor DarkCyan
+Write-Host "========================================================================" -ForegroundColor Cyan
 Write-Host ""
 
 # Check Python version
@@ -64,8 +67,10 @@ if ($LASTEXITCODE -ne 0) {
 Write-Host ""
 
 # Summary
+Write-Host "" 
 Write-Host "========================================================================" -ForegroundColor Green
-Write-Host "[SUCCESS] All Components Generated Successfully!" -ForegroundColor Green
+Write-Host "  [SUCCESS] SAIC RMF Package Generated Successfully!" -ForegroundColor Green
+Write-Host "  Developed by Michael Hoch | SAIC" -ForegroundColor DarkGray
 Write-Host "========================================================================" -ForegroundColor Green
 Write-Host ""
 Write-Host "Generated Files:" -ForegroundColor Blue

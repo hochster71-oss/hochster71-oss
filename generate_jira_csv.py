@@ -250,7 +250,9 @@ def write_csv(filename, data, fieldnames):
 
 def main():
     print("=" * 70)
+    print("SAIC RMF AUTOMATION SUITE")
     print("Jira CSV Generator for RMF Controls")
+    print("Developed by Michael Hoch | SAIC")
     print("=" * 70)
     
     # Load controls

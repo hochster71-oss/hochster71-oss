@@ -20,15 +20,15 @@ from datetime import datetime
 INPUT_CSV = "controls_rev4.csv"
 OUTPUT_MMD = "BMC3_RMF_Rev4.mmd"
 
-# RMF Step colors for visual distinction
+# RMF Step colors for SAIC dark theme
 COLORS = {
-    'prepare': '#E8F4F8',      # Light blue
-    'select': '#FFF4E6',        # Light orange
-    'implement': '#E8F5E9',     # Light green
-    'assess': '#FFF9C4',        # Light yellow
-    'authorize': '#F3E5F5',     # Light purple
-    'monitor': '#FFE0B2',       # Light amber
-    'decommission': '#FFCDD2'   # Light red
+    'prepare': '#1a1a2e',       # Dark navy
+    'select': '#16213e',        # Deep blue
+    'implement': '#0f3460',     # Ocean blue
+    'assess': '#1a4d6d',        # Steel blue
+    'authorize': '#00d9ff',     # SAIC cyan
+    'monitor': '#005f73',       # Teal
+    'decommission': '#2d4654'   # Slate
 }
 
 def load_controls(csv_path):
@@ -53,14 +53,16 @@ def sanitize_id(text):
 
 def generate_flowchart_header():
     """Generate Mermaid flowchart header"""
-    header = f"""%%{{init: {{'theme':'base', 'themeVariables': {{ 'fontSize':'14px'}}}}}}%%
+    header = f"""%%{{init: {{'theme':'dark', 'themeVariables': {{ 'fontSize':'14px', 'primaryColor':'#00d9ff', 'primaryTextColor':'#fff', 'primaryBorderColor':'#16213e', 'lineColor':'#00d9ff', 'secondaryColor':'#1a1a2e', 'tertiaryColor':'#0f3460'}}}}}}%%
 graph TB
     %% =========================================================================
-    %% BMC3 Sandbox - Complete RMF Flowchart (NIST SP 800-37 Rev 2)
+    %% SAIC RMF AUTOMATION SUITE - Complete RMF Flowchart
+    %% Developed by: Michael Hoch | SAIC
     %% Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
     %% 
     %% This diagram shows the complete Risk Management Framework (RMF) lifecycle
-    %% for all NIST SP 800-53 Rev 4 controls applicable to the SDA BMC3 Sandbox.
+    %% for all NIST SP 800-53 Rev 4 controls applicable to DoD systems.
+    %% Framework: NIST SP 800-37 Rev 2
     %% 
     %% RMF Steps:
     %%   1. PREPARE - Prepare the organization and system for RMF
@@ -70,11 +72,13 @@ graph TB
     %%   5. AUTHORIZE - Authorize the system for operation
     %%   6. MONITOR - Continuously monitor security posture
     %%   7. DECOMMISSION - Securely dispose of the system
+    %% 
+    %% © 2025 SAIC | www.saic.com
     %% =========================================================================
 
     %% Start Node
-    START([🚀 BMC3 Sandbox<br/>RMF Process Start])
-    style START fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
+    START([🛡️ SAIC RMF Suite<br/>Process Start])
+    style START fill:#00d9ff,stroke:#16213e,stroke-width:3px,color:#000
 
 """
     return header
@@ -87,35 +91,35 @@ def generate_rmf_main_flow():
     
     START --> PREPARE
     PREPARE[Step 1: PREPARE<br/>Prepare Organization<br/>& System]
-    style PREPARE fill:#E8F4F8,stroke:#0277BD,stroke-width:2px
+    style PREPARE fill:#1a1a2e,stroke:#00d9ff,stroke-width:2px,color:#fff
     
     PREPARE --> SELECT
     SELECT[Step 2: SELECT<br/>Select Security<br/>Controls]
-    style SELECT fill:#FFF4E6,stroke:#EF6C00,stroke-width:2px
+    style SELECT fill:#16213e,stroke:#00d9ff,stroke-width:2px,color:#fff
     
     SELECT --> IMPLEMENT
     IMPLEMENT[Step 3: IMPLEMENT<br/>Implement Security<br/>Controls]
-    style IMPLEMENT fill:#E8F5E9,stroke:#2E7D32,stroke-width:2px
+    style IMPLEMENT fill:#0f3460,stroke:#00d9ff,stroke-width:2px,color:#fff
     
     IMPLEMENT --> ASSESS
     ASSESS[Step 4: ASSESS<br/>Assess Control<br/>Effectiveness]
-    style ASSESS fill:#FFF9C4,stroke:#F9A825,stroke-width:2px
+    style ASSESS fill:#1a4d6d,stroke:#00d9ff,stroke-width:2px,color:#fff
     
     ASSESS --> AUTHORIZE
     AUTHORIZE[Step 5: AUTHORIZE<br/>Authorize System<br/>Operation]
-    style AUTHORIZE fill:#F3E5F5,stroke:#6A1B9A,stroke-width:2px
+    style AUTHORIZE fill:#00d9ff,stroke:#16213e,stroke-width:2px,color:#000
     
     AUTHORIZE --> MONITOR
     MONITOR[Step 6: MONITOR<br/>Continuous<br/>Monitoring]
-    style MONITOR fill:#FFE0B2,stroke:#E65100,stroke-width:2px
+    style MONITOR fill:#005f73,stroke:#00d9ff,stroke-width:2px,color:#fff
     
     MONITOR --> DECOMMISSION
     DECOMMISSION[Step 7: DECOMMISSION<br/>Dispose of<br/>System/Data]
-    style DECOMMISSION fill:#FFCDD2,stroke:#C62828,stroke-width:2px
+    style DECOMMISSION fill:#2d4654,stroke:#00d9ff,stroke-width:2px,color:#fff
     
     DECOMMISSION --> END
-    END([✅ RMF Process<br/>Complete])
-    style END fill:#4CAF50,stroke:#2E7D32,stroke-width:3px,color:#fff
+    END([✅ SAIC RMF<br/>Complete])
+    style END fill:#00d9ff,stroke:#16213e,stroke-width:3px,color:#000
 
 """
     return flow
@@ -150,17 +154,17 @@ def generate_control_nodes(controls):
             # Connect to SELECT step (controls are selected here)
             lines.append(f"    SELECT --> SEL_{safe_id}\n")
             lines.append(f"    SEL_{safe_id}[{ctrl_id}<br/>Selected]\n")
-            lines.append(f"    style SEL_{safe_id} fill:#FFF4E6,stroke:#EF6C00\n")
+            lines.append(f"    style SEL_{safe_id} fill:#16213e,stroke:#00d9ff,color:#fff\n")
             
             # IMPLEMENT
             lines.append(f"    SEL_{safe_id} --> IMP_{safe_id}\n")
             lines.append(f"    IMP_{safe_id}[{ctrl_id}<br/>Implemented]\n")
-            lines.append(f"    style IMP_{safe_id} fill:#E8F5E9,stroke:#2E7D32\n")
+            lines.append(f"    style IMP_{safe_id} fill:#0f3460,stroke:#00d9ff,color:#fff\n")
             
             # ASSESS
             lines.append(f"    IMP_{safe_id} --> ASS_{safe_id}\n")
             lines.append(f"    ASS_{safe_id}[{ctrl_id}<br/>Assessed]\n")
-            lines.append(f"    style ASS_{safe_id} fill:#FFF9C4,stroke:#F9A825\n")
+            lines.append(f"    style ASS_{safe_id} fill:#1a4d6d,stroke:#00d9ff,color:#fff\n")
             
             # Connect back to main AUTHORIZE flow
             lines.append(f"    ASS_{safe_id} --> AUTHORIZE\n")
@@ -168,7 +172,7 @@ def generate_control_nodes(controls):
             # MONITOR
             lines.append(f"    MONITOR --> MON_{safe_id}\n")
             lines.append(f"    MON_{safe_id}[{ctrl_id}<br/>Monitored]\n")
-            lines.append(f"    style MON_{safe_id} fill:#FFE0B2,stroke:#E65100\n")
+            lines.append(f"    style MON_{safe_id} fill:#005f73,stroke:#00d9ff,color:#fff\n")
             
             lines.append("\n")
     
@@ -177,32 +181,33 @@ def generate_control_nodes(controls):
 def generate_legend():
     """Generate diagram legend"""
     legend = """    %% =========================================================================
-    %% LEGEND
+    %% LEGEND - SAIC RMF AUTOMATION SUITE
+    %% Developed by Michael Hoch | SAIC
     %% =========================================================================
     
-    subgraph LEGEND[" 📋 RMF Steps Legend "]
+    subgraph LEGEND[" 📋 RMF Steps Legend - SAIC Dark Theme "]
         L1[Step 1: PREPARE]
-        style L1 fill:#E8F4F8,stroke:#0277BD
+        style L1 fill:#1a1a2e,stroke:#00d9ff,color:#fff
         
         L2[Step 2: SELECT]
-        style L2 fill:#FFF4E6,stroke:#EF6C00
+        style L2 fill:#16213e,stroke:#00d9ff,color:#fff
         
         L3[Step 3: IMPLEMENT]
-        style L3 fill:#E8F5E9,stroke:#2E7D32
+        style L3 fill:#0f3460,stroke:#00d9ff,color:#fff
         
         L4[Step 4: ASSESS]
-        style L4 fill:#FFF9C4,stroke:#F9A825
+        style L4 fill:#1a4d6d,stroke:#00d9ff,color:#fff
         
         L5[Step 5: AUTHORIZE]
-        style L5 fill:#F3E5F5,stroke:#6A1B9A
+        style L5 fill:#00d9ff,stroke:#16213e,color:#000
         
         L6[Step 6: MONITOR]
-        style L6 fill:#FFE0B2,stroke:#E65100
+        style L6 fill:#005f73,stroke:#00d9ff,color:#fff
         
         L7[Step 7: DECOMMISSION]
-        style L7 fill:#FFCDD2,stroke:#C62828
+        style L7 fill:#2d4654,stroke:#00d9ff,color:#fff
     end
-    style LEGEND fill:#FAFAFA,stroke:#9E9E9E,stroke-width:2px
+    style LEGEND fill:#0a0a0f,stroke:#00d9ff,stroke-width:2px
 
 """
     return legend
@@ -216,7 +221,9 @@ def write_flowchart(output_path, content):
 
 def main():
     print("=" * 70)
+    print("SAIC RMF AUTOMATION SUITE")
     print("RMF Flowchart Generator")
+    print("Developed by Michael Hoch | SAIC")
     print("=" * 70)
     
     # Load controls

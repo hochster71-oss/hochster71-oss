@@ -1,6 +1,15 @@
-# Deployment Guide
+# SAIC RMF Automation Suite - Deployment Guide
 
-Complete deployment instructions for the BMC3 Sandbox RMF Package.
+<div align="center">
+  <h2>🛡️ Enterprise RMF Deployment Guide</h2>
+  <p><strong>Developed by Michael Hoch | SAIC</strong></p>
+  <p><em>Science Applications International Corporation</em></p>
+  <p><a href="https://www.saic.com">www.saic.com</a></p>
+</div>
+
+---
+
+Complete deployment instructions for the SAIC RMF Automation Suite.
 
 ## 📋 Table of Contents
 
@@ -132,7 +141,7 @@ hochster71-oss/
 1. **Create or select a project**
    - Go to Jira → Projects → Create Project
    - Choose "Scrum" or "Kanban" template
-   - Name it "BMC3 RMF" or similar
+   - Name it "SAIC RMF" or similar
 
 2. **Verify project configuration**
    - Ensure "Epic" issue type is enabled
@@ -201,7 +210,7 @@ hochster71-oss/
    - Choose "Import as new space"
 
 2. **Option B: Manual Setup**
-   - Create new space "BMC3 RMF"
+   - Create new space "SAIC RMF"
    - Copy pages from template manually
 
 ### Step 2: Add Mermaid Plugin
@@ -364,5 +373,8 @@ After successful deployment:
 ---
 
 **Version:** 1.0  
+**Developer:** Michael Hoch | SAIC  
+**Company:** Science Applications International Corporation  
+**Website:** https://www.saic.com  
 **Last Updated:** 2025-12-10  
 **License:** MIT
