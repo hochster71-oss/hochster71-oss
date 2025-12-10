@@ -1,0 +1,6 @@
+﻿# Generated artefacts â€“ keep repo clean
+BMC3_RMF_Rev4.mmd
+controls_rev4.csv
+*.svg
+*.log
+__pycache__/
